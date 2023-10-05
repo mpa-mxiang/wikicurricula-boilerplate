@@ -1,0 +1,21 @@
+{
+    "es": {
+      "language": "es",
+      "talk": "Discusión:",
+      "featuredArticle": "{{artículo destacado",
+      "other_config_option": "value"
+    },
+    "en": {
+      "language": "en",
+      "talk": "Talk:",
+      "featuredArticle": "{{featured article}}",
+      "other_config_option": "value"
+    },
+    "it": {
+      "language": "it",
+      "talk": "Discussioni:",
+      "featuredArticle": "{{articolo in vetrina}}",
+      "other_config_option": "value"
+    }
+  }
+  
